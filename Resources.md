@@ -1,5 +1,11 @@
 ## Robot diferencial simulado en Gazebo
 
+
+Video del robot diferencial en solid works.
+Youbotica
+https://www.youtube.com/watch?v=xNT3WAhoa5o
+
+
 Link del archivo CAD del robot: 
 https://grabcad.com/library/line-follower-15
 
