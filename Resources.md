@@ -13,6 +13,8 @@ https://grabcad.com/library/line-follower-15
 Link del convertidor de Solid Works a URDF (Plugin para Solid Works): 
 http://wiki.ros.org/sw_urdf_exporter
 
+Link to joinand link urdf spec for ROS2
+http://wiki.ros.org/urdf/XML/joint
 
 Link del visualizador en linea de URDFs:
 https://gkjohnson.github.io/urdf-loaders/javascript/example/bundle/index.html
